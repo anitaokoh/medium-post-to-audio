@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+polly_service.py
+*.txt
+*.mp3
