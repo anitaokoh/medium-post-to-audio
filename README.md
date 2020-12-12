@@ -4,14 +4,10 @@ This project aimed to convert my old medium post to Audio using AWS Polly. This 
 
 The Medium post was extracted using Medium API, tranformed/cleaned and stored as clean text ready for AWS Polly text format.
 
-
-
 After this process was achieved locally, it was further automated using Lamdba function. Here is the Visual work breakdown
 
 
-Below is the AWS Polly output
-https://soundcloud.com/anita-okoh-492489510/creating-python-virtual-environment
+Find the output in the Medium post [here](https://heartbeat.fritz.ai/creating-python-virtual-environments-with-conda-why-and-how-180ebd02d1db) which looks like this 
+[](https://github.com/anitaokoh/medium-post-to-audio/blob/main/images/Screen%20Shot%202020-12-12%20at%209.26.09%20PM.png)
 
-
-
-To learn more about the project, read about the project process here. 
+To learn more about the project, read about my  project process here. 
