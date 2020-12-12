@@ -8,6 +8,6 @@ After this process was achieved locally, it was further automated using Lamdba f
 
 
 Find the output in the Medium post [here](https://heartbeat.fritz.ai/creating-python-virtual-environments-with-conda-why-and-how-180ebd02d1db) which looks like this 
-[](https://github.com/anitaokoh/medium-post-to-audio/blob/main/images/Screen%20Shot%202020-12-12%20at%209.26.09%20PM.png)
+![image](https://github.com/anitaokoh/medium-post-to-audio/blob/main/images/Screen%20Shot%202020-12-12%20at%209.26.09%20PM.png)
 
 To learn more about the project, read about my  project process here. 
